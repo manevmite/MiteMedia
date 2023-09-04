@@ -1,0 +1,17 @@
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.csproj.AssemblyReference.cache
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.AssemblyInfoInputs.cache
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.AssemblyInfo.cs
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Persistence.deps.json
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Persistence.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Persistence.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Application.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Domain.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Application.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\bin\Debug\net6.0\EmailSender.Domain.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.csproj.CopyComplete
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\refint\EmailSender.Persistence.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\EmailSender.Persistence.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Persistence\obj\Debug\net6.0\ref\EmailSender.Persistence.dll

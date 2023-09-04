@@ -1,0 +1,15 @@
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\bin\Debug\net6.0\EmailSender.Application.deps.json
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\bin\Debug\net6.0\EmailSender.Application.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\bin\Debug\net6.0\EmailSender.Application.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\bin\Debug\net6.0\EmailSender.Domain.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\bin\Debug\net6.0\EmailSender.Domain.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.csproj.AssemblyReference.cache
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.AssemblyInfoInputs.cache
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.AssemblyInfo.cs
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.csproj.CoreCompileInputs.cache
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.csproj.CopyComplete
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\refint\EmailSender.Application.dll
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\EmailSender.Application.pdb
+C:\Users\MiteManev\iborn\Projects\miteMedia\EmailSender.Application\obj\Debug\net6.0\ref\EmailSender.Application.dll
